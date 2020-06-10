@@ -21,7 +21,7 @@ body
 
 #cabecera #logo
 {
-    width: 20px;
+    width: 40px;
     vertical-align: middle;
 }
 
@@ -47,8 +47,14 @@ body
 }
 #post
 {
+    text-align: center;
     background: white;
     padding: 1em;
+}
+
+#post #foto
+{
+    width: 900px;
 }
 
 #footer
